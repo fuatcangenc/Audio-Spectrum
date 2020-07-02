@@ -1,0 +1,7 @@
+﻿https://tr.qwe.wiki/wiki/Music_visualization - Müzik görselleştirme nedir
+http://www.bass.radio42.com/index.html - Müzik görselleştirmede kullanılan bir kütüphane
+http://www.bass.radio42.com/help/ - Bu kütüphane hakkında bilgi
+https://www.nuget.org/packages/Bass.NetWrapper/2.4.12.5 - C# için kütüphanenin yüklenmesi
+http://www.un4seen.com/ - Kütüphanenin bilgileri
+https://stackoverflow.com/questions/6245450/how-to-create-audio-spectrum-in-c-sharp - Problemin tespiti, anlaşılması ve çözülmesi için araştırma inceleme
+https://stackoverflow.com/questions/15795205/how-to-make-a-vertical-progress-bar - Dikey progress bar nasıl yapılır?
